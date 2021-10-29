@@ -1,0 +1,10 @@
+Action Links
+  - Print via Order Printer
+    resources: Order
+    url: <some_var>/print
+    type: bulk
+  - Print via Order Printer
+    resources: Order
+    url: <some_url>/print
+    type: single
+
