@@ -1,0 +1,6 @@
+triggers
+  - PDF created
+
+actions
+  - Create PDF
+    
